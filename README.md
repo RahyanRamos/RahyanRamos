@@ -20,4 +20,4 @@
 ![Rahyan Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=RahyanRamos&show_icons=true&theme=dark)
 
 ## Mais usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahyanRamos&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahyanRamos&layout=compact&theme=dark)
